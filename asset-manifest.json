@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/practica3.3_react/static/css/main.933b3154.chunk.css",
+    "main.js": "/practica3.3_react/static/js/main.acdd2816.chunk.js",
+    "main.js.map": "/practica3.3_react/static/js/main.acdd2816.chunk.js.map",
+    "runtime-main.js": "/practica3.3_react/static/js/runtime-main.d50aaa7e.js",
+    "runtime-main.js.map": "/practica3.3_react/static/js/runtime-main.d50aaa7e.js.map",
+    "static/css/2.c1256375.chunk.css": "/practica3.3_react/static/css/2.c1256375.chunk.css",
+    "static/js/2.cf055a1b.chunk.js": "/practica3.3_react/static/js/2.cf055a1b.chunk.js",
+    "static/js/2.cf055a1b.chunk.js.map": "/practica3.3_react/static/js/2.cf055a1b.chunk.js.map",
+    "static/js/3.229c597a.chunk.js": "/practica3.3_react/static/js/3.229c597a.chunk.js",
+    "static/js/3.229c597a.chunk.js.map": "/practica3.3_react/static/js/3.229c597a.chunk.js.map",
+    "index.html": "/practica3.3_react/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/practica3.3_react/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.933b3154.chunk.css.map": "/practica3.3_react/static/css/main.933b3154.chunk.css.map",
+    "static/js/2.cf055a1b.chunk.js.LICENSE.txt": "/practica3.3_react/static/js/2.cf055a1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50aaa7e.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.cf055a1b.chunk.js",
+    "static/css/main.933b3154.chunk.css",
+    "static/js/main.acdd2816.chunk.js"
+  ]
+}
